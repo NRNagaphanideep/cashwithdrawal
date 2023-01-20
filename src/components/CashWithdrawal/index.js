@@ -16,6 +16,7 @@ class CashWithdrawal extends Component {
     const {balance} = this.state
     const name = 'Sarah Williams'
     const initial = name.slice(0, 1)
+
     return (
       <div className="app-container">
         <div className="cash-withdrawal-container">
